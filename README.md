@@ -14,5 +14,5 @@ Senior Industrial Engineer based in Des Moines, IA, with 30+ years in manufactur
 
 - **Analytics & BI:** Power BI · DAX · Power Query (M) · Excel · VBA
 - **Data:** SQL Server · T-SQL · SSMS
-- **Web:** Nuxt · Vue · Markdown
+- **Web:** Next.js · Fumadocs · React · MDX
 - **Engineering:** Lean manufacturing · process improvement · capacity planning
