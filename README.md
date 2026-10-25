@@ -9,6 +9,7 @@ Senior Industrial Engineer based in Des Moines, IA, with 30+ years in manufactur
 | [**xlsdocs.com**](https://xlsdocs.com) | Excel formulas, functions, VBA, and data analysis |
 | [**pbidocs.com**](https://pbidocs.com) | Power BI: data modeling, DAX, Power Query, and reporting |
 | [**tsqldocs.com**](https://tsqldocs.com) | T-SQL and SQL Server: queries, functions, and performance |
+| [**fabdocs.dev**](https://fabdocs.dev) | Microsoft Fabric: lakehouses, pipelines, and production engineering |
 
 ### 🛠️ Tools
 
